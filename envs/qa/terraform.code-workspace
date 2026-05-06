@@ -1,0 +1,17 @@
+{
+  "folders": [
+    {
+      "path": "../../../terraform",
+    },
+    {
+      "path": "../../../cicd-lab-tf-v2",
+    },
+    {
+      "path": "../..",
+    },
+    {
+      "path": "../../../terraform-codepipeline-bootstrap",
+    },
+  ],
+  "settings": {},
+}
